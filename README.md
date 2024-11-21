@@ -7,15 +7,15 @@ From : KMITL
 
 Member :  
 
-          นายสิปฐินนชิ์ เครือศรี
+          นายสิปฐินนชิ์ เครือศรี (IoT System and Information Engineering)
 
-          นางสาวพลอยสิริ ประครองใจ
+          นางสาวพลอยสิริ ประครองใจ (IoT System and Information Engineering)
           
-          นางสาวจิดาภา เรียงวิไลกุล
+          นางสาวจิดาภา เรียงวิไลกุล (IoT System and Information Engineering)
           
-          นายนนทวัช ผ่องศรีนวล
+          นายนนทวัช ผ่องศรีนวล (Computer Engineering)
           
-          นายแอนฟิลด์ วาซัน
+          นายแอนฟิลด์ วาซัน (IoT System and Information Engineering)
 
 EC2 instance type : t3.micro
 

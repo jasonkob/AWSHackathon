@@ -20,3 +20,5 @@ Member :
 EC2 instance type : t3.micro
 
 Amazon model use : Amazon Titan Text Premier V1
+
+![image](https://github.com/user-attachments/assets/c43e446f-96fd-4d05-9e0c-8250b6adb2af)

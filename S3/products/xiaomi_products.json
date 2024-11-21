@@ -1,0 +1,1389 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 14T 5G 12/256GB",
+        "price": 15990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-14t-12-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 8300-Ultra",
+        "display": "1220x2712 CrystalRes POLED CrystalRes 144Hz",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Type-C 67W HyperCharge",
+        "battery": "5,000 mAh",
+        "weight": "410g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2665.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2665.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 14T 5G 12/512GB",
+        "price": 17990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-14t-12-512gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 8300-Ultra",
+        "display": "1220x2712 CrystalRes POLED CrystalRes 144Hz",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "Type-C 67W HyperCharge",
+        "battery": "5,000 mAh",
+        "weight": "410g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2998.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 14T Pro 5G 12/1TB",
+        "price": 24990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-14t-pro-1tb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek 9300+",
+        "display": "1220x2712 CrystalRes POLED CrystalRes 144Hz",
+        "memory": "RAM 12GB / ROM 1TB",
+        "charging": "Type-C HyperCharge 50W",
+        "battery": "5,000 mAh",
+        "weight": "430g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 4165.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 4165.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 14T Pro 5G 12/512GB",
+        "price": 21990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-14t-pro-12-512gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek 9300+",
+        "display": "1220x2712 CrystalRes POLED CrystalRes 144Hz",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "Type-C HyperCharge 50W",
+        "battery": "5,000 mAh",
+        "weight": "430g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2200.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3665.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2199.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Pad SE 8.7 4G 6/128GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-pad-se-128gb",
+        "screen_size": "8.7 inch",
+        "chip": "Mediatek Helio G85 (12 nm)",
+        "display": "800 x 1340 pixels, 5:3 ratio",
+        "memory": "RAM 6 GB / ROM 128 GB",
+        "charging": "Type-C",
+        "battery": "6,650 mAh",
+        "weight": "514g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Pad SE 8.7 4G 4/64GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-pad-se-64gb",
+        "screen_size": "8.7 inch",
+        "chip": "Mediatek Helio G85 (12 nm)",
+        "display": "800 x 1340 pixels, 5:3 ratio",
+        "memory": "RAM 4 GB / ROM 64 GB",
+        "charging": "Type-C",
+        "battery": "6,650 mAh",
+        "weight": "514g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 833.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 833.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 14C 4G 8/256GB",
+        "price": 4499.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-14c",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 749.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 749.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 14C 4G 6/128GB",
+        "price": 3699.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-14c-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 369.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 369.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 616.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 369.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 616.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 369.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 369.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi MIX Flip 12/512GB",
+        "price": 39990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-mix-flip-512gb",
+        "screen_size": "6.86/4.01 inch",
+        "chip": "Qualcomm Snapdragon 8 Gen 3",
+        "display": "Inner: 2912x1224 1.5K / Cover: 1392x1208 HID 1.5K",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "Type-C 67W",
+        "battery": "4,780 mAh",
+        "weight": "590g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 6665.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 6665.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note13 Pro 5G 12/512GB",
+        "price": 11990.0,
+        "link": "https://jaymartstore.com/products/redmi-note13-pro-5g-512gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 7s Gen2",
+        "display": "1.5K AMOLED 120Hz",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "67W USB Type-C 2.0",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi A3 4/128GB",
+        "price": 2999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-a3-128gb",
+        "screen_size": "6.70 inch",
+        "chip": "Mediatek Helio G36 (12 nm)",
+        "display": "HD+ 720 x 1650 Refresh Rate 90Hz",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "10W Type-C",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 299.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 13 8/128GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-13-128gb",
+        "screen_size": "6.79 inch",
+        "chip": "MediaTek Helio G91 Ultra",
+        "display": "1080x2460 FHD+",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "USB Type-C 33W",
+        "battery": "5,030 mAh",
+        "weight": "200g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 833.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 833.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi A3 3/64GB",
+        "price": 2499.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-a3-64gb",
+        "screen_size": "6.70 inch",
+        "chip": "Mediatek Helio G36 (12 nm)",
+        "display": "HD+ 720 x 1650 Refresh Rate 90Hz",
+        "memory": "RAM 3GB / ROM 64GB",
+        "charging": "10W Type-C",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 249.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 833.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 249.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 249.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Pad Pro 8/256GB",
+        "price": 10990.0,
+        "link": "https://jaymartstore.com/products/redmi-pad-pro-256gb",
+        "screen_size": "12.1 inch",
+        "chip": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+        "display": "1600x2560 120Hz Corning Gorilla Glass 3",
+        "memory": "RAM 8 GB / ROM 256 GB",
+        "charging": "USB Type-C 33W",
+        "battery": "10,000 mAh",
+        "weight": "571g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 13C 8/256GB",
+        "price": 4799.0,
+        "link": "https://jaymartstore.com/products/2YZIi7A7o2tDDbVvl5XsAMhHvaK",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi 13C 6/128GB",
+        "price": 3499.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-13c-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 666.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 14 Ultra 5G (16/512GB)",
+        "price": 40990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-14-ultra-5g-16-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 6831.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 4099.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 6831.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 14 5G (12/512GB)",
+        "price": 29990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-14-5g-12-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 4998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 4998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 13 5G 12/512GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/redmi-note13-5g-12-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi12 8/256GB",
+        "price": 5499.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi12-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 916.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 549.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 916.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi12 8/128GB",
+        "price": 5299.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi12-8-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 529.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 13 5G 8/256GB sale 3%",
+        "price": 7699.0,
+        "link": "https://jaymartstore.com/products/redmi-note13-5g-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 6080",
+        "display": "120Hz Full HD",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "33W USB Type-C 2.0",
+        "battery": "5,000 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.17
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.17
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 13 8/256GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/redmi-note13-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 6080",
+        "display": "120Hz Full HD",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "33W USB Type-C 2.0",
+        "battery": "5,000 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.83
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.83
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 13 Pro+ 5G 12/512GB",
+        "price": 14990.0,
+        "link": "https://jaymartstore.com/products/redmi-note13-pro-plus-12-512gb",
+        "screen_size": "6.67 inch",
+        "chip": "MTK Dimensity 7200 Ultra",
+        "display": "OLED 6.7 120Hz 1.5K 2460 x 1080 pixels",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "120W USB Type-C 2.0",
+        "battery": "5,000 mAh",
+        "weight": "160 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2498.33
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2498.33
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note 13 Pro+ 5G 8/256GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/redmi-note13-pro-plus-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MTK Dimensity 7200 Ultra",
+        "display": "OLED 6.7 120Hz 1.5K 2460 x 1080 pixels",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "120W USB Type-C 2.0",
+        "battery": "5,000 mAh",
+        "weight": "160 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2165.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2165.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 12T 8/256GB",
+        "price": 17990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-12t-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Mediatek Dimensity 8100 Ultra",
+        "display": "CrystalRes 1.5K (2712 x 1220) capacitive touch screen, Multi-touch, OLED, 120Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "Type-C Cable 1m. K26250007",
+        "battery": "5,000 mAh",
+        "weight": "560 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 12T Pro 12/256GB",
+        "price": 25990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-12t-pro-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 8+ Gen 1",
+        "display": "CrystalRes 1.5K (2712 x 1220) capacitive touch screen, Multi-touch, OLED, 120Hz",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Type-C Cable 1m. K26250007",
+        "battery": "5,000 mAh",
+        "weight": "690 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Pad 4/128GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-pad-4-128gb",
+        "screen_size": "10.61 inch",
+        "chip": "MediaTek Helio G99",
+        "display": "FHD+ (2000x1200),capacitive touch screen,Multi-touch, IPS 90Hz",
+        "memory": "RAM 6 GB / ROM 128 GB",
+        "charging": "Micro USB 2.0",
+        "battery": "8,000 mAh",
+        "weight": "810g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 13 Pro 12/512GB",
+        "price": 39990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-13-pro-512gb",
+        "screen_size": "6.73 inch",
+        "chip": "Snapdragon 8 Gen 2 (4 nm)",
+        "display": "LTPO OLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak) 1440 x 3200 pixels",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "120W Wired, 50W Wireless, 10W Reverse Wireless",
+        "battery": "4,820 mAh",
+        "weight": "230 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 13 12/256GB",
+        "price": 29990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-13-256gb",
+        "screen_size": "6.36 inch",
+        "chip": "Snapdragon 8 Gen 2 (4 nm)",
+        "display": "OLED, 120Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 1900 nits (peak) ,1080 x 2400 pixels",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Fast Charging 67W Wired, 50W Wireless, 10W Reverse Wireless",
+        "battery": "4,500 mAh",
+        "weight": "189 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note12 5G 6/128GB",
+        "price": 6499.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-note12-5g-6-128gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 4 Gen 1 (Octa-core CPU, up to 2.0GHz)",
+        "display": "FHD+ OLED 120Hz",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "33W USB Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note12 5G 8/256GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-note12-5g-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 4 Gen 1 (Octa-core CPU, up to 2.0GHz)",
+        "display": "FHD+ OLED 120Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "33W USB Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note12 Pro 5G 8/256GB",
+        "price": 10990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-note12pro-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 1080",
+        "display": "FHD+ (2400 x 1080p) OLED, 120HzHDR10+",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "67W Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note12 Pro+ 5G 8/256GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-note12pro-plus-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 1080",
+        "display": "FHD+ (2400 x 1080) capacitive touch screen,Multi-touch, 120Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "120W Hyper Charging Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Pad SE 8/256GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/redmi-pad-se-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 13T 12/256GB",
+        "price": 15990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-13t-12-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2665.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2665.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi Note12 8/256GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-note12-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 13T Pro 12/512GB",
+        "price": 19990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-13t-pro-12-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 13T Pro 16/1TB",
+        "price": 23990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-13t-pro-1tb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3998.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi Redmi A2 Plus 3/64GB",
+        "price": 2699.0,
+        "link": "https://jaymartstore.com/products/xiaomi-redmi-a2plus-3-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Xiaomi",
+        "name": "Xiaomi 12 Pro 12/256GB",
+        "price": 31990.0,
+        "link": "https://jaymartstore.com/products/xiaomi-12-pro-12-256",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "payment_methods": {
+    "credit_card": {
+      "full_payment": {
+        "providers": [
+          {
+            "name": "Mastercard",
+            "accepted": true,
+            "processing_fee": 0,
+            "min_amount": 0,
+            "max_amount": null
+          },
+          {
+            "name": "Visa",
+            "accepted": true,
+            "processing_fee": 0,
+            "min_amount": 0,
+            "max_amount": null
+          }
+        ]
+      },
+      "installment_plans": {
+        "bbl": {
+          "bank_name": "Bangkok Bank",
+          "bank_code": "BBL",
+          "plans": [
+            {
+              "months": 10,
+              "interest_rate": 0,
+              "min_purchase": 3000,
+              "max_purchase": null,
+              "processing_fee": 0,
+              "required_documents": [
+                "Valid government-issued ID card",
+                "Credit card must be present",
+                "Recent credit card statement"
+              ],
+              "terms_conditions": [
+                "Card must be issued in Thailand",
+                "Cardholder must be present",
+                "Card must not expire within 3 months"
+              ]
+            }
+          ]
+        },
+        "kbank": {
+          "bank_name": "Kasikorn Bank",
+          "bank_code": "KBANK",
+          "plans": [
+            {
+              "months": 6,
+              "interest_rate": 0,
+              "min_purchase": 3000,
+              "processing_fee": 0
+            },
+            {
+              "months": 10,
+              "interest_rate": 0,
+              "min_purchase": 5000,
+              "processing_fee": 0
+            }
+          ]
+        },
+        "ktc": {
+          "bank_name": "Krungthai Card",
+          "bank_code": "KTC",
+          "plans": [
+            {
+              "months": 6,
+              "interest_rate": 0,
+              "min_purchase": 3000
+            },
+            {
+              "months": 10,
+              "interest_rate": 0,
+              "min_purchase": 5000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "loyalty_program": {
+    "jpoint": {
+      "program_name": "J Point",
+      "registration": {
+        "channels": ["LINE Official: J Point", "In-store"],
+        "required_info": ["Full name", "Phone number", "Email address"]
+      },
+      "tiers": [
+        {
+          "name": "Bronze",
+          "requirements": {
+            "points": 0,
+            "spending": 0
+          },
+          "benefits": [
+            {
+              "type": "points_earning",
+              "description": "Earn 1 point per 25 THB spent",
+              "rate": 0.04
+            },
+            {
+              "type": "birthday",
+              "description": "Double points during birthday month"
+            }
+          ]
+        },
+        {
+          "name": "Silver",
+          "requirements": {
+            "points": 10000,
+            "spending": 250000
+          },
+          "benefits": [
+            {
+              "type": "points_earning",
+              "description": "Earn 1.2 points per 25 THB spent",
+              "rate": 0.048
+            },
+            {
+              "type": "birthday",
+              "description": "Triple points during birthday month"
+            },
+            {
+              "type": "warranty",
+              "description": "Extended warranty options"
+            }
+          ]
+        },
+        {
+          "name": "Gold",
+          "requirements": {
+            "points": 30000,
+            "spending": 750000
+          },
+          "benefits": [
+            {
+              "type": "points_earning",
+              "description": "Earn 1.5 points per 25 THB spent",
+              "rate": 0.06
+            },
+            {
+              "type": "priority",
+              "description": "Priority customer service"
+            }
+          ]
+        },
+        {
+          "name": "Elite",
+          "requirements": {
+            "points": 50000,
+            "spending": 1250000
+          },
+          "benefits": [
+            {
+              "type": "points_earning",
+              "description": "Earn 2 points per 25 THB spent",
+              "rate": 0.08
+            },
+            {
+              "type": "exclusive",
+              "description": "Exclusive member events"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "last_updated": "2024-11-12",
+    "version": "1.0.0",
+    "currency": "THB"
+  }
+}

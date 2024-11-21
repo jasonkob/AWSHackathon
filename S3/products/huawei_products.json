@@ -1,0 +1,431 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei Pura 70 Ultra 16/512GB",
+        "price": 43990.0,
+        "link": "https://jaymartstore.com/products/huawei-pura-70-ultra",
+        "screen_size": "6.8 inch",
+        "chip": "Kirin 9010, Octa-core",
+        "display": "FHD+ 2844 x 1260 Pixels",
+        "memory": "RAM 16GB / ROM 512GB",
+        "charging": "USB Type-C , HUAWEI SuperCharge (Max 100 W)",
+        "battery": "5,200 mAh",
+        "weight": "220g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 5665.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 5665.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei Pura 70 Pro 12/512GB",
+        "price": 33990.0,
+        "link": "https://jaymartstore.com/products/huawei-pura-70-pro",
+        "screen_size": "6.8 inch",
+        "chip": "Kirin 9010, Octa - core",
+        "display": "FHD + 2412 x 1084 pixels; 394 PPI",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "USB Type-C , HUAWEI SuperCharge (Max 100 W)",
+        "battery": "5,050 mAh",
+        "weight": "160g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei Pura 70 12/256GB",
+        "price": 23990.0,
+        "link": "https://jaymartstore.com/products/huawei-pura-70",
+        "screen_size": "6.6 inch",
+        "chip": "Kirin 9000S1, Octa-core",
+        "display": "FHD+ 2760 x 1256 Pixels 460 PPI",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "USB Type-C , HUAWEI SuperCharge (Max 66 W)",
+        "battery": "4,900 mAh",
+        "weight": "200g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei MatePad SE 11 (LTE) 8/128GB",
+        "price": 7990.0,
+        "link": "https://jaymartstore.com/products/huawei-matepad-se-11-8-128gb",
+        "screen_size": "11.0 inch",
+        "chip": "HiSilicon Kirin 710A",
+        "display": "1920 x 1200 pixels (100% sRGB), 207 PPI, TFT LCD (IPS) 16:10, Screen-to-body ratio: 85%",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "USB Type-C, 22.5 W",
+        "battery": "7,700 mAh",
+        "weight": "475 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "HUAWEI nova 12i 8/256GB",
+        "price": 8490.0,
+        "link": "https://jaymartstore.com/products/huawei-nova-12i-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "Qualcomm 6225",
+        "display": "16.7M, 1080 x 2388 pixels, 6.7 FHD+",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "USB Type-C 22.5 W",
+        "battery": "5,000 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1498.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1498.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei nova11i 8/256GB",
+        "price": 9990.0,
+        "link": "https://jaymartstore.com/products/huawei-nova11i-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "HUAWEI MatePad 11\" PaperMatte Edition Wi-Fi 8/128GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/huawei-matepad-11-papermatte",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei Matepad Air 11.5\" 8/256GB",
+        "price": 19990.0,
+        "link": "https://jaymartstore.com/products/huawei-matepad-air-8-256gb",
+        "screen_size": "11.5 inch",
+        "chip": "Qualcomm Snapdragonc 888",
+        "display": "144 Hz LCD screen, 2800 x 1840 pixels, 291 PPI, DCI-P3, 500 nits 3:2, Screen-to-body ratio: 87%",
+        "memory": "RAM 8 GB / ROM 256 GB",
+        "charging": "USB Type-C , 22.5 W",
+        "battery": "8,300 mAh",
+        "weight": "510 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.67
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.67
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei nova 10 SE 8/256GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/huawei-nova-10-se-256gb",
+        "screen_size": "6.78 inch",
+        "chip": "Qualcomm Snapdragon 680",
+        "display": "LCD",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "66W HUAWEI SuperCharge (11V/6AMAX)",
+        "battery": "4,500 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei MatePad 11.5 (2023) LTE 6/128GB",
+        "price": 13990.0,
+        "link": "https://jaymartstore.com/products/huawei-matepad-11-5-2023-lte",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Huawei",
+        "name": "Huawei MatePad T10 Wifi Refresh 2/32GB (Promotion)",
+        "price": 4990.0,
+        "link": "https://jaymartstore.com/products/2CSpQuZn6fcVtHj13Z08qT8pmT5",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.0
+          }
+        ]
+      }
+    }
+  ]
+}

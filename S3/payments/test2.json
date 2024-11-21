@@ -1,0 +1,499 @@
+{
+  "payment_plans": [
+    {
+      "product_id": "iphone16_promax_256",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 2590.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 2590.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 4316.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 2590.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 4316.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 2590.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 2590.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone16_promax_512",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 3490.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 3490.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 5816.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 5816.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 3490.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 3490.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone16_128",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 2990.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 2990.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 4983.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 2990.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 2990.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone16_256",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 4690.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 4690.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 7816.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 7816.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 4690.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 4690.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone16_512",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 3890.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 3890.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 6483.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 6483.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 3890.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 3890.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone15_promax_256",
+      "plans": [
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 4810.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 8016.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 4810.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 8016.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone15_promax_512",
+      "plans": [
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 9650.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 5790.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 9650.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 5790.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone15_promax_1000",
+      "plans": [
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 6570.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 6",
+          "installment_amount": 10950.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 6570.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 10950.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone15_128",
+      "plans": [
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 3192.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 5320.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 3192.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone15_256",
+      "plans": [
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 3580.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 5966.67
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 3580.0
+        }
+      ]
+    },
+    {
+      "product_id": "iphone15_512",
+      "plans": [
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 4120.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 4120.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 6",
+          "installment_amount": 6866.0
+        }
+      ]
+    },
+    {
+      "product_id": "SamsungGalaxy_S23plus_256",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 3590.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 3590.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 3590.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 3590.0
+        }
+      ]
+    },
+    {
+      "product_id": "SamsungGalaxy_S23plus_512",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 4090.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 4090.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 4090.0
+        }
+      ]
+    },
+    {
+      "product_id": "SamsungGalaxy_Z_Fold6_256",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 6390.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 6390.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 6390.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 6390.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 6390.0
+        }
+      ]
+    },
+    {
+      "product_id": "SamsungGalaxy_Z_Fold6_512",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 6890.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 6890.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 6890.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 6890.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 6890.0
+        }
+      ]
+    },
+    {
+      "product_id": "SamsungGalaxy_Z_Fold6_1000",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 7890.0
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 7890.0
+        },
+        {
+          "bank": "KTC",
+          "interest_term": "0% x 10",
+          "installment_amount": 7890.0
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 7890.0
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 7890.0
+        }
+      ]
+    },
+    {
+      "product_id": "Samsung_Galaxy_A54_128",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 1399.9
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 1399.9
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 1399.9
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 1399.9
+        }
+      ]
+    },
+    {
+      "product_id": "Samsung_Galaxy_A54_256",
+      "plans": [
+        {
+          "bank": "BBL",
+          "interest_term": "0% x 10",
+          "installment_amount": 1499.9
+        },
+        {
+          "bank": "KBANK",
+          "interest_term": "0% x 10",
+          "installment_amount": 1499.9
+        },
+        {
+          "bank": "SCB",
+          "interest_term": "0% x 10",
+          "installment_amount": 1499.9
+        },
+        {
+          "bank": "UOB",
+          "interest_term": "0% x 10",
+          "installment_amount": 1499.9
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "CMF By Nothing",
+        "name": "CMF Phone 1 8/256GB",
+        "price": 10699.0,
+        "link": "https://jaymartstore.com/products/cmf-phone1-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1783.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1783.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "CMF By Nothing",
+        "name": "CMF Phone 1 8/128GB",
+        "price": 9499.0,
+        "link": "https://jaymartstore.com/products/cmf-phone1-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1583.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1583.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          }
+        ]
+      }
+    }
+  ]
+}

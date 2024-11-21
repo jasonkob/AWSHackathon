@@ -1,0 +1,127 @@
+{
+  "product_manuals": {
+    "smartphones": {
+      "iphone_15": {
+        "model_info": {
+          "name": "iPhone 15",
+          "category": "Smartphone",
+          "brand": "Apple"
+        },
+        "quick_start": {
+          "box_contents": [
+            "iPhone 15",
+            "USB-C to USB-C Cable",
+            "Documentation"
+          ],
+          "initial_setup": [
+            {
+              "step": 1,
+              "title": "Power On",
+              "instructions": "Press and hold the side button until Apple logo appears",
+              "tips": [
+                "Ensure device has sufficient charge",
+                "Connect to power if necessary"
+              ]
+            },
+            {
+              "step": 2,
+              "title": "Language and Region",
+              "instructions": "Select your preferred language and region",
+              "notes": "Can be changed later in Settings"
+            }
+          ]
+        },
+        "features": {
+          "camera": {
+            "basic_operations": [
+              {
+                "title": "Taking Photos",
+                "steps": [
+                  "Open Camera app",
+                  "Frame your subject",
+                  "Tap shutter button"
+                ],
+                "tips": ["Tap to focus", "Slide for exposure adjustment"]
+              }
+            ],
+            "advanced_features": [
+              {
+                "title": "Portrait Mode",
+                "steps": [
+                  "Swipe to Portrait mode",
+                  "Keep subject 2-8 feet away",
+                  "Follow on-screen guidance"
+                ]
+              },
+              {
+                "title": "Night Mode",
+                "instructions": "Automatically enables in low light",
+                "tips": ["Keep device steady", "Use tripod for best results"]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "speakers": {
+      "jbl_charge_5": {
+        "model_info": {
+          "name": "JBL Charge 5",
+          "category": "Bluetooth Speaker",
+          "brand": "JBL"
+        },
+        "quick_start": {
+          "box_contents": [
+            "JBL Charge 5 speaker",
+            "USB-C charging cable",
+            "Safety sheet",
+            "Quick start guide"
+          ],
+          "basic_setup": [
+            {
+              "step": 1,
+              "title": "Power On",
+              "instructions": "Press power button on top of speaker",
+              "indicator": "LED lights will illuminate"
+            },
+            {
+              "step": 2,
+              "title": "Bluetooth Pairing",
+              "instructions": [
+                "Press Bluetooth button",
+                "Open Bluetooth settings on your device",
+                "Select 'JBL Charge 5' from the list"
+              ],
+              "notes": "Blue LED indicates successful pairing"
+            }
+          ]
+        },
+        "features": {
+          "playback_controls": [
+            {
+              "function": "Play/Pause",
+              "instruction": "Press play button once",
+              "location": "Top panel"
+            },
+            {
+              "function": "Volume",
+              "instruction": "Press - or + buttons",
+              "location": "Top panel"
+            }
+          ],
+          "advanced_features": [
+            {
+              "feature": "PartyBoost",
+              "description": "Connect multiple JBL PartyBoost-compatible speakers",
+              "instructions": [
+                "Press PartyBoost button on both speakers",
+                "Wait for connection sound",
+                "Speakers will sync automatically"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

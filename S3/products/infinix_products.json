@@ -1,0 +1,400 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Hot50i 4/256GB",
+        "price": 3699.0,
+        "link": "https://jaymartstore.com/products/infinix-hot50i-4-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "MediaTek Helio G81",
+        "display": "720x1600 120Hz IPS LCD HD+ AOD (Always-On Display) 500Nits",
+        "memory": "RAM 4GB / ROM 256GB",
+        "charging": "Type-C 18W",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1549.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1549.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2583.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1549.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2583.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1549.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1549.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix GT20 Pro 5G 12/256GB",
+        "price": 12999.0,
+        "link": "https://jaymartstore.com/products/infinix-gt20-pro-256gb",
+        "screen_size": "6.78 inch",
+        "chip": "MediaTek Dimensity 8200",
+        "display": "FHD+ AMOLED 144Hz 1300nits",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "USB Type-C 45W",
+        "battery": "5,000 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1583.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1583.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix HOT 30i 8/128GB",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/infinix-hot-30i-8-128gb",
+        "screen_size": "6.60 inch",
+        "chip": "Unisoc T606",
+        "display": "HD+ 720 x 1612",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "USB Type-C 18W",
+        "battery": "5,000 mAh",
+        "weight": "190g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Note12 Pro 4G (8/256GB)",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/infinix-note12-pro-4g-8-256gb",
+        "screen_size": "6.70 inch",
+        "chip": "Mediatek : Helio G99 Octa Core",
+        "display": "AMOLED 24-bit",
+        "memory": "RAM 8GB/ROM 256GB",
+        "charging": "33W (Fast Charging)",
+        "battery": "5,000 mAh",
+        "weight": "192 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Note12 Pro 5G (8/128GB)",
+        "price": 8299.0,
+        "link": "https://jaymartstore.com/products/infinix-note12-pro-5g-8-128gb",
+        "screen_size": "6.70 inch",
+        "chip": "Mediatek : Dimensity 810 Octa Core",
+        "display": "AMOLED 24-bit",
+        "memory": "RAM 8GB, ROM 128GB",
+        "charging": "33W (Fast Charging)",
+        "battery": "5,000 mAh",
+        "weight": "188 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 829.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Smart 8 4/128GB",
+        "price": 2999.0,
+        "link": "https://jaymartstore.com/products/infinix-smart-8-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Zero30 5G 12/256GB",
+        "price": 11999.0,
+        "link": "https://jaymartstore.com/products/infinix-zero30-5g",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Hot30 8/256GB",
+        "price": 4599.0,
+        "link": "https://jaymartstore.com/products/infinix-hot30-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 459.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 459.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 766.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 459.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 459.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Smart 9 3/64GB",
+        "price": 2699.0,
+        "link": "https://jaymartstore.com/products/infinix-smart9-3-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Smart 9 3/128GB",
+        "price": 2999.0,
+        "link": "https://jaymartstore.com/products/infinix-smart9-3-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Hot40i 8/256GB",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/infinix-hot40i-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 749.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 749.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 449.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Infinix",
+        "name": "Infinix Hot 40 Pro 8/256GB",
+        "price": 5699.0,
+        "link": "https://jaymartstore.com/products/infinix-hot-40-pro",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          }
+        ]
+      }
+    }
+  ]
+}

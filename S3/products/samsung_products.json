@@ -1,0 +1,2300 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S10+ 5G 12/256GB",
+        "price": 41900.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-s10plus-5g-256gb",
+        "screen_size": "12.4 inch",
+        "chip": "MediaTek Dimensity 9300+ (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz 2800 x 1752 (WQXGA+)",
+        "memory": "RAM 12 GB / ROM 256 GB",
+        "charging": "Type C, USB 3.2 Gen 1 Fast charge 45W",
+        "battery": "10,090 mAh",
+        "weight": "576g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 6983.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 6983.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S10+ Wifi 12/256GB",
+        "price": 36900.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-s10plus-wifi-256gb",
+        "screen_size": "12.4 inch",
+        "chip": "MediaTek Dimensity 9300+ (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz 2800 x 1752 (WQXGA+)",
+        "memory": "RAM 12 GB / ROM 256 GB",
+        "charging": "Type C, USB 3.2 Gen 1 Fast charge 45W",
+        "battery": "10,090 mAh",
+        "weight": "571g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3690.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 6150.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3690.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 6150.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3690.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3690.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3690.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S10 Ultra 5G 12/256GB",
+        "price": 52900.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-s10-ultra-5g-512gb",
+        "screen_size": "14.6 inch",
+        "chip": "MediaTek Dimensity 9300+ (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz 2960 x 1848 (WQXGA+)",
+        "memory": "RAM 12 GB / ROM 256 GB",
+        "charging": "Type C, USB 3.2 Gen 1 Fast charge 45W",
+        "battery": "11,200 mAh",
+        "weight": "727g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 5290.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 8816.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 5290.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 8816.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 5290.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 5290.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 5290.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S24 FE 5G 8/256GB",
+        "price": 22900.0,
+        "link": "https://jaymartstore.com/products/galaxy-s24fe-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "Exynos2400e",
+        "display": "FHD+ (1080 x 2340), 385 ppi Dynamic AMOLED 2X 60-120 Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "USB Type-C Wireless PowerShare Super Fast Charging 25W FWC 2.0",
+        "battery": "4,700 mAh",
+        "weight": "210g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 6983.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A06 4/64GB",
+        "price": 3399.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a06-64gb",
+        "screen_size": "6.7 inch",
+        "chip": "Mediatek Helio G85",
+        "display": "720 x 1600 (HD+) LCD 60Hz",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "USB Type-C",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Fold6 5G 12/256GB",
+        "price": 58900.0,
+        "link": "https://jaymartstore.com/products/galaxy-z-fold-6-256gb",
+        "screen_size": "7.6 inch",
+        "chip": "Snapdragon 8 Gen 3",
+        "display": "inside QXGA+ (2160 x 1856), 374ppi, Dynamic AMOLED 2X / outside 22.1:9 (2376 x 968), 412ppi, Dynamic AMOLED 2X",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Type-C",
+        "battery": "4,400 mAh",
+        "weight": "230g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 6390.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 6390.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 6390.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 6390.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 6390.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Flip6 5G 12/512GB",
+        "price": 44900.0,
+        "link": "https://jaymartstore.com/products/galaxy-z-flip-6-512gb",
+        "screen_size": "6.7 inch",
+        "chip": "Snapdragon 8 Gen 3",
+        "display": "inside FHD+ (2640 x 1080), 425ppi, Dynamic AMOLED 2X / outside (748 x 720), 306ppi, Super AMOLED",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "Type-C",
+        "battery": "4,000 mAh",
+        "weight": "187g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Flip6 5G 12/256GB",
+        "price": 39900.0,
+        "link": "https://jaymartstore.com/products/galaxy-z-flip-6-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "Snapdragon 8 Gen 3",
+        "display": "inside FHD+ (2640 x 1080), 425ppi, Dynamic AMOLED 2X / outside (748 x 720), 306ppi, Super AMOLED",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Type-C",
+        "battery": "4,000 mAh",
+        "weight": "187g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4290.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4290.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 4290.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4290.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4290.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Fold6 5G 12/512GB",
+        "price": 68900.0,
+        "link": "https://jaymartstore.com/products/galaxy-fold-6-512gb",
+        "screen_size": "7.6 inch",
+        "chip": "Snapdragon 8 Gen 3",
+        "display": "inside QXGA+ (2160 x 1856), 374ppi, Dynamic AMOLED 2X / outside 22.1:9 (2376 x 968), 412ppi, Dynamic AMOLED 2X",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Type-C",
+        "battery": "4,400 mAh",
+        "weight": "230g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 6890.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 6890.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 6890.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 6890.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 6890.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Fold6 5G 12/1TB",
+        "price": 78900.0,
+        "link": "https://jaymartstore.com/products/galaxy-z-fold-6-1tb",
+        "screen_size": "7.6 inch",
+        "chip": "Snapdragon 8 Gen 3",
+        "display": "inside QXGA+ (2160 x 1856), 374ppi, Dynamic AMOLED 2X / outside 22.1:9 (2376 x 968), 412ppi, Dynamic AMOLED 2X",
+        "memory": "RAM 12GB / ROM 1TB",
+        "charging": "Type-C",
+        "battery": "4,400 mAh",
+        "weight": "230g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 7890.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 7890.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 7890.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 7890.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 7890.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A34 5G 8/128GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a34-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A34 5G 8/256GB",
+        "price": 11999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a34-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Tab S9FE 5G 6/128GB",
+        "price": 16900.0,
+        "link": "https://jaymartstore.com/products/2cAJdnaIstbHBAtmoF4bZvirlCQ",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A15 5G 8/256GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a15-5g-256gb",
+        "screen_size": "6.5 inch",
+        "chip": "MediaTek | D6100+",
+        "display": "1080 x 2340 (FHD+) sA U-Cut, 90Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "USB Type-C Fast charge 25W",
+        "battery": "5,000 mAh",
+        "weight": "200g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A05s 6/128GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a05s-6-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 549.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 549.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 916.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 916.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 549.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 549.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A25 5G 8/256GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a25-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A15 5G 8/128GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a15-5g-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 2666.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S6 Lite (2024) LTE 4/128GB",
+        "price": 10990.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-s6-lite-2024-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1998.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A55 5G 12/256GB",
+        "price": 15999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a55-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2666.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A15 8/128GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a15-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A55 5G 8/128GB",
+        "price": 13999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a55-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23 Ultra 5G 12/512GB",
+        "price": 47900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23-ultra-5g-12-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 7983.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4790.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23 Ultra 5G 8/256GB",
+        "price": 31900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23-ultra-5g-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4190.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23FE 5G 8/256GB",
+        "price": 22900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23fe-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2590.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2590.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 4316.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2590.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 4316.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2590.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2590.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23FE 5G 8/128GB",
+        "price": 22900.0,
+        "link": "https://jaymartstore.com/products/galaxy-s23fe-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2290.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2290.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3816.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2290.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3816.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2290.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2290.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A35 5G 8/128GB",
+        "price": 11999.0,
+        "link": "https://jaymartstore.com/products/samsung-gaalxy-a35-5g-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A8 LTE 4/64GB",
+        "price": 9990.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-a8-lte",
+        "screen_size": "10.5 inch",
+        "chip": "UniSOC T618",
+        "display": "1920 x 1200 (WUXGA) TFT, 60Hz",
+        "memory": "RAM 4 GB / ROM 64 GB",
+        "charging": "Type C Fast charge 15 W",
+        "battery": "7,040 mAh",
+        "weight": "510 g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S9+ Wi-Fi 12/256GB",
+        "price": 29900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-s9-plus-wifi-12-256gb",
+        "screen_size": "12.4 inch",
+        "chip": "Qualcomm Snapdragon 8 Gen 2 (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz",
+        "memory": "RAM 12 GB / ROM 256 GB",
+        "charging": "Type C USB 1.8",
+        "battery": "11,200 mAh",
+        "weight": "581 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A04s 4/64GB",
+        "price": 4699.0,
+        "link": "https://jaymartstore.com/products/galaxy-a04s-64gb",
+        "screen_size": "6.50 inch",
+        "chip": "Exynos 850 Octa-core 2.4GHz,2GHz",
+        "display": "720 x 1600 HD+ TFT, 20:9, 269PPI, 90Hz V-Cut Display",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "Type-C (Support 15W)",
+        "battery": "5,000 mAh",
+        "weight": "195 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A7 Lite Ram3/32GB",
+        "price": 5990.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-a7-lite",
+        "screen_size": "8.7 inch",
+        "chip": "Mediatek MT8768T Helio P22T, Octa core",
+        "display": "1340 x 800 (WXGA+) 60Hz",
+        "memory": "RAM 3 GB / ROM 32 GB",
+        "charging": "Type C fast charge 15 W",
+        "battery": "5,100 mAh",
+        "weight": "370 g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S22 Ultra 5G 12/256GB",
+        "price": 39900.0,
+        "link": "https://jaymartstore.com/products/galaxy-s22-ultra-256gb",
+        "screen_size": "6.80 inch",
+        "chip": "Snapdragon 8 Gen 1",
+        "display": "3,088 x 1,440 Quad HD+ Edge Dynamic AMOLED 2X 120Hz",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "Type-C (Support 45W)",
+        "battery": "5,000 mAh",
+        "weight": "228 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3990.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S22 Ultra 5G 8/128GB",
+        "price": 35900.0,
+        "link": "https://jaymartstore.com/products/galaxy-s22-ultra-128gb",
+        "screen_size": "6.80 inch",
+        "chip": "Snapdragon 8 Gen 1",
+        "display": "3,088 x 1,440 Quad HD+ Edge Dynamic AMOLED 2X 120Hz",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "Type-C (Support 45W)",
+        "battery": "5,000 mAh",
+        "weight": "228 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S9 Ultra 5G 12/256GB",
+        "price": 39900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-s9-ultra-5g-12-256gb",
+        "screen_size": "14.6 inch",
+        "chip": "Qualcomm Snapdragon 8 Gen 2 (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz",
+        "memory": "RAM 12 GB / ROM 256 GB",
+        "charging": "Type-C",
+        "battery": "11,200 mAh",
+        "weight": "737 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4990.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 4990.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 4990.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4990.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4990.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S9 5G 8/128GB sale 15%",
+        "price": 27900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-s9-5g-8-128gb",
+        "screen_size": "11.0 inch",
+        "chip": "Qualcomm Snapdragon 8 Gen 2 (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz",
+        "memory": "RAM 8 GB / ROM 128 GB",
+        "charging": "Type C USB 1.8",
+        "battery": "8,400 mAh",
+        "weight": "500 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3290.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3290.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3290.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3290.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S9 Wi-Fi 8/128GB sale 17%",
+        "price": 23900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-s9-wifi-9-128gb",
+        "screen_size": "11.0 inch",
+        "chip": "Qualcomm Snapdragon 8 Gen 2 (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz",
+        "memory": "RAM 8 GB / ROM 128 GB",
+        "charging": "Type C USB 1.8",
+        "battery": "8,400 mAh",
+        "weight": "498 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A8 Wi-Fi 4/64GB",
+        "price": 7990.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-a8-wifi",
+        "screen_size": "10.5 inch",
+        "chip": "UniSOC T618",
+        "display": "1920 x 1200 (WUXGA) TFT, 60Hz",
+        "memory": "RAM 4 GB / ROM 64 GB",
+        "charging": "Type C Fast charge 15 W",
+        "battery": "7,040 mAh",
+        "weight": "510 g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A24 LTE 6/128GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a24-lte-6-128gb",
+        "screen_size": "6.50 inch",
+        "chip": "MediaTek HelioG99",
+        "display": "1080 x 2340 (FHD+) sA U-Cut, 90Hz",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "USB Type-C (Fast charge 25W)",
+        "battery": "5,000 mAh",
+        "weight": "195 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A14 5G 4/128GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a14-5g-4-128gb",
+        "screen_size": "6.60 inch",
+        "chip": "5G (MT6833V)",
+        "display": "(1080 x 2408) FHD+ PLS TFT LCD, 401PPI, 90Hz",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "USB Type-C",
+        "battery": "5,000 mAh",
+        "weight": "200g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23+ 5G 8/512GB",
+        "price": 40900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23plus-5g-512gb",
+        "screen_size": "6.60 inch",
+        "chip": "Snapdragon 8 Gen 2",
+        "display": "FHD + Flat (2340 x 1080) 393ppi, Dynamic AMOLED 2X 48-120Hz",
+        "memory": "RAM 8GB / ROM 512GB",
+        "charging": "Type-C Support 45W, FWC 2.0 (Fast Wireless Charging 2.0 10W or more)",
+        "battery": "4,700 mAh",
+        "weight": "195 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 4090.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4090.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 4090.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23 5G 8/128GB",
+        "price": 28900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23-5g-128gb",
+        "screen_size": "6.10 inch",
+        "chip": "Snapdragon 8 Gen 2",
+        "display": "FHD + Flat (2340 x 1080) 425ppi, Dynamic AMOLED 2X 48-120Hz",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "Type-C Support 25W, FWC 2.0 (Fast Wireless Charging 2.0 10W or more)",
+        "battery": "3,900 mAh",
+        "weight": "168 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2890.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A54 5G 8/256GB",
+        "price": 14999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a54-256gb",
+        "screen_size": "6.40 inch",
+        "chip": "Exynos 1380 Octa-core CPU 2.4GHz,2GHz",
+        "display": "(1080 x 2340) FHD+ Super AMOLED, 401PPI, 120Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "USB Type-C (25W)",
+        "battery": "5,000 mAh",
+        "weight": "200 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A54 5G 8/128GB",
+        "price": 13999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a54-128gb",
+        "screen_size": "6.40 inch",
+        "chip": "Exynos 1380 Octa-core CPU 2.4GHz,2GHz",
+        "display": "(1080 x 2340) FHD+ Super AMOLED, 401PPI, 120Hz",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "USB Type-C (25W)",
+        "battery": "5,000 mAh",
+        "weight": "200 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S9 FE Plus 5G 6/128GB sale 14%",
+        "price": 23900.0,
+        "link": "https://jaymartstore.com/products/2c7T328OxWUekJnt0nWoebIR3Bt",
+        "screen_size": "12.4 inch",
+        "chip": "Exynos1380",
+        "display": "TFT LCD, 90 Hz",
+        "memory": "RAM 8 GB / ROM 128 GB",
+        "charging": "Type C USB 1.8",
+        "battery": "10,090 mAh",
+        "weight": "620 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2790.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 4650.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2790.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 4650.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2790.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2790.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2790.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23 5G 8/256GB",
+        "price": 31900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23-5g-256gb",
+        "screen_size": "6.10 inch",
+        "chip": "Snapdragon 8 Gen 2",
+        "display": "FHD + Flat (2340 x 1080) 425ppi, Dynamic AMOLED 2X 48-120Hz",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "Type-C Support 25W, FWC 2.0 (Fast Wireless Charging 2.0 10W or more)",
+        "battery": "3,900 mAh",
+        "weight": "168 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3190.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3190.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3190.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S9+ 5G 12/256GB",
+        "price": 33900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-s9-plus-5g-12-256gb",
+        "screen_size": "12.4 inch",
+        "chip": "Qualcomm Snapdragon 8 Gen 2 (4nm)",
+        "display": "Dynamic AMOLED 2X, 120 Hz",
+        "memory": "RAM 12 GB / ROM 256 GB",
+        "charging": "Type C USB 1.8",
+        "battery": "11,200 mAh",
+        "weight": "586 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3990.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3990.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3990.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3990.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3990.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A9 LTE 4/64GB",
+        "price": 5990.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-a9-lte-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 998.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S23+ 5G 8/256GB",
+        "price": 35900.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-s23plus-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3590.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A9+ Wifi 8/128GB",
+        "price": 6990.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-a9-plus-128gb-wifi",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1331.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1331.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab A9+ 5G 8/128GB",
+        "price": 8990.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-a9-plus-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1665.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S6 Lite (LTE) 4/64GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-s6-lite-lte-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A22 5G Ram8/128GB",
+        "price": 8299.0,
+        "link": "https://jaymartstore.com/products/galaxy-a22-5g",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S7 FE (LTE) 4/64GB",
+        "price": 16990.0,
+        "link": "https://jaymartstore.com/products/galaxy-tab-s7-fe",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A22 LTE Ram 6/128GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/galaxy-a22-lte",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S7 FE (WiFi) 4/64GB",
+        "price": 14990.0,
+        "link": "https://jaymartstore.com/products/tab-s7fe-wifi-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S21 FE 5G 8/256GB",
+        "price": 19900.0,
+        "link": "https://jaymartstore.com/products/galaxy-s21-fe-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S8 5G 8/128GB",
+        "price": 30900.0,
+        "link": "https://jaymartstore.com/products/tab-s8-5g",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3090.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A53 5G 8/128GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/galaxy-a53-128",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A13 4/128GB",
+        "price": 6499.0,
+        "link": "https://jaymartstore.com/products/galaxy-a13",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Tab S6 Lite (Wifi) 4/64GB",
+        "price": 9990.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-tab-s6-lite-wifi-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A23 5G 8/128GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/galaxy-a23-5g-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Galaxy A06 4/128GB",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/samsung-galaxy-a06-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Samsung",
+        "name": "Samsung Tab S9FE Wi-Fi 6/128GB",
+        "price": 13900.0,
+        "link": "https://jaymartstore.com/products/2hzyquKhI1NKOq4O4OEaQuI9GvI",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2831.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2831.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          }
+        ]
+      }
+    }
+  ]
+}

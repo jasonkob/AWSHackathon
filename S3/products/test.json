@@ -1,0 +1,246 @@
+{
+  "categories": {
+    "smartphones": {
+      "apple": {
+        "iphone_16_series": {
+          "models": [
+            {
+              "name": "iPhone 16 Pro Max",
+              "options": [
+                {
+                  "storage": "256GB",
+                  "price": 48900,
+                  "link": "https://jaymartstore.com/products/iphone-16-pro-max-256gb",
+                  "payment_plans": "iphone16_promax_256"
+                },
+                {
+                  "storage": "512GB",
+                  "price": 56900,
+                  "link": "https://jaymartstore.com/products/iphone-16-pro-max-512gb",
+                  "payment_plans": "iphone16_promax_512"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "6.9 inch",
+                  "chip": "A18 Pro chip",
+                  "display": "Super Retina XDR display",
+                  "charging": "USB-C",
+                  "battery": "Up to 33 hours",
+                  "weight": "227g"
+                }
+              ]
+            },
+            {
+              "name": "iPhone 16",
+              "options": [
+                {
+                  "storage": "128GB",
+                  "price": 29900,
+                  "link": "https://jaymartstore.com/products/iphone-16-128gb",
+                  "payment_plans": "iphone16_128"
+                },
+                {
+                  "storage": "256GB",
+                  "price": 33900,
+                  "link": "https://jaymartstore.com/products/iphone-16-256gb",
+                  "payment_plans": "iphone16_256"
+                },
+                {
+                  "storage": "512GB",
+                  "price": 41900,
+                  "link": "https://jaymartstore.com/products/iphone-16-512gb",
+                  "payment_plans": "iphone16_512"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "6.1 inch",
+                  "chip": "A18 chip",
+                  "display": "Super Retina XDR display",
+                  "charging": "USB-C",
+                  "battery": "Up to 22 hours",
+                  "weight": "170g"
+                }
+              ]
+            }
+          ]
+        },
+        "iphone_15_series": {
+          "models": [
+            {
+              "name": "iPhone 15 Pro Max",
+              "options": [
+                {
+                  "storage": "256GB",
+                  "price": 44500,
+                  "link": "https://jaymartstore.com/products/iphone15-pro-max-256gb",
+                  "payment_plans": "iphone15_promax_256"
+                },
+                {
+                  "storage": "512GB",
+                  "price": 57900,
+                  "link": "https://jaymartstore.com/products/iphone15-pro-max-512gb",
+                  "payment_plans": "iphone15_promax_512"
+                },
+                {
+                  "storage": "1TB",
+                  "price": 65700,
+                  "link": "https://jaymartstore.com/products/iphone15-pro-max-1tb",
+                  "payment_plans": "iphone15_promax_1000"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "6.7 inch",
+                  "chip": "A17 Pro chip",
+                  "display": "Super Retina XDR display ProMotion technology Always-On display",
+                  "charging": "USB-C",
+                  "battery": "Up to 29 hours",
+                  "weight": "221g"
+                }
+              ]
+            },
+            {
+              "name": "iPhone 15",
+              "options": [
+                {
+                  "storage": "128GB",
+                  "price": 28500,
+                  "link": "https://jaymartstore.com/products/iphone15-128gb",
+                  "payment_plans": "iphone15_128"
+                },
+                {
+                  "storage": "256GB",
+                  "price": 32500,
+                  "link": "https://jaymartstore.com/products/iphone15-256gb",
+                  "payment_plans": "iphone15_256"
+                },
+                {
+                  "storage": "512GB",
+                  "price": 41200,
+                  "link": "https://jaymartstore.com/products/iphone15-512gb",
+                  "payment_plans": "iphone15_512"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "6.1 inch",
+                  "chip": "A16 Bionic chip",
+                  "display": "Super Retina XDR display",
+                  "charging": "USB-C",
+                  "battery": "Up to 20 hours",
+                  "weight": "171 g"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "Samsung": {
+        "Samsung_Galaxy_S23": {
+          "models": [
+            {
+              "name": "Samsung Galaxy S23+",
+              "options": [
+                {
+                  "storage": "256GB",
+                  "price": 35900,
+                  "link": "https://jaymartstore.com/products/samsung-galaxy-s23plus-5g-256gb",
+                  "payment_plans": "SamsungGalaxy_S23plus_256"
+                },
+                {
+                  "storage": "512GB",
+                  "price": 40900,
+                  "link": "https://jaymartstore.com/products/samsung-galaxy-s23plus-5g-512gb",
+                  "payment_plans": "SamsungGalaxy_S23plus_512"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "6.60 inch",
+                  "chip": "Snapdragon 8 Gen 2",
+                  "display": "FHD + Flat (2340 x 1080) 393ppi, Dynamic AMOLED 2X 48-120Hz",
+                  "memory": "RAM 8GB",
+                  "charging": "Type-C Support 45W, FWC 2.0 (Fast Wireless Charging 2.0 10W or more)",
+                  "battery": "4,700 mAh",
+                  "weight": "195 g"
+                }
+              ]
+            }
+          ]
+        },
+        "Samsung_Galaxy_Z_Fold6": {
+          "models": [
+            {
+              "name": "Samsung Galaxy Z Fold6",
+              "options": [
+                {
+                  "storage": "256GB",
+                  "price": 58900,
+                  "link": "https://jaymartstore.com/products/galaxy-z-fold-6-256gb",
+                  "payment_plans": "SamsungGalaxy_Z_Fold6_256"
+                },
+                {
+                  "storage": "512GB",
+                  "price": 68900,
+                  "link": "https://jaymartstore.com/products/galaxy-fold-6-512gb",
+                  "payment_plans": "SamsungGalaxy_Z_Fold6_512"
+                },
+                {
+                  "storage": "1TB",
+                  "price": 78900,
+                  "link": "https://jaymartstore.com/products/galaxy-z-fold-6-1tb",
+                  "payment_plans": "SamsungGalaxy_Z_Fold6_1000"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "7.6 inch",
+                  "chip": "Snapdragon 8 Gen 3",
+                  "display": "inside QXGA+ (2160 x 1856), 374ppi, Dynamic AMOLED 2X / outside 22.1:9 (2376 x 968), 412ppi, Dynamic AMOLED 2X",
+                  "memory": "RAM 12GB ",
+                  "charging": "Type-C",
+                  "battery": "4,400 mAh",
+                  "weight": "230g"
+                }
+              ]
+            }
+          ]
+        },
+        "Samsung_Galaxy_A_series": {
+          "models": [
+            {
+              "name": "Samsung Galaxy A54",
+              "options": [
+                {
+                  "storage": "128GB",
+                  "price": 13999,
+                  "link": "https://jaymartstore.com/products/samsung-galaxy-a54-128gb",
+                  "payment_plans": "Samsung_Galaxy_A54_128"
+                },
+                {
+                  "storage": "256GB",
+                  "price": 14999,
+                  "link": "https://jaymartstore.com/products/samsung-galaxy-a54-256gb",
+                  "payment_plans": "Samsung_Galaxy_A54_256"
+                }
+              ],
+              "features": [
+                {
+                  "screen_size": "6.40 inch",
+                  "chip": "Exynos 1380 Octa-core CPU 2.4GHz,2GHz",
+                  "display": "(1080 x 2340) FHD+ Super AMOLED, 401PPI, 120Hz",
+                  "memory": "RAM 8GB ",
+                  "charging": "USB Type-C (25W)",
+                  "battery": "5,000 mAh",
+                  "weight": "200 g"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

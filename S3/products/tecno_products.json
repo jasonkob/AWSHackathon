@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "Tecno",
+        "name": "TECNO Spark 7 Pro 4/128GB",
+        "price": 4350.0,
+        "link": "https://jaymartstore.com/products/tecno-spark-7-pro",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 435.0
+          }
+        ]
+      }
+    }
+  ]
+}

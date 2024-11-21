@@ -1,0 +1,1343 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y200 5G 12/512GB",
+        "price": 12999.0,
+        "link": "https://jaymartstore.com/products/vivo-y200-5g-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2166.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y200 5G 8/256GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/vivo-y200-5g-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 4 Gen 2",
+        "display": "120Hz 2400x1080 Amoled",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "80W",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "vivo Y03t 4/128GB",
+        "price": 3799.0,
+        "link": "https://jaymartstore.com/products/2nXzQmmXXpCtWSwE8MufYEb7A4g",
+        "screen_size": "6.56 inch",
+        "chip": "T612",
+        "display": "90Hz 1612x720 LCD",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "Type-C 15W",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 633.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V40 5G 12/512GB",
+        "price": 17999.0,
+        "link": "https://jaymartstore.com/products/vivo-v40-5g-512gb",
+        "screen_size": "6.78 inch",
+        "chip": "Snapdragon 7 Gen 3",
+        "display": "Resolution : 2800 x 1260 Amoled",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "80W, Type-C",
+        "battery": "5,500 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V40 Pro 5G 12/512GB",
+        "price": 24999.0,
+        "link": "https://jaymartstore.com/products/vivo-v40-pro-5g-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V40 5G 12/256GB",
+        "price": 15999.0,
+        "link": "https://jaymartstore.com/products/vivo-v40-5g-256gb",
+        "screen_size": "6.78 inch",
+        "chip": "Snapdragon 7 Gen 3",
+        "display": "Resolution : 2800 x 1260 Amoled",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "80W, Type-C",
+        "battery": "5,500 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "vivo Y03t 4/64GB",
+        "price": 3299.0,
+        "link": "https://jaymartstore.com/products/vivo-y30t-64gb",
+        "screen_size": "6.56 inch",
+        "chip": "T612",
+        "display": "90Hz 1612x720 LCD",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "Type-C 15W",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y03 4/128GB",
+        "price": 3799.0,
+        "link": "https://jaymartstore.com/products/vivo-y03-128gb",
+        "screen_size": "6.56 inch",
+        "chip": "Helio G85",
+        "display": "90Hz 1612 x 720 LCD",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "15W",
+        "battery": "5,000 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1266.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo X100 5G 12/256GB",
+        "price": 26999.0,
+        "link": "https://jaymartstore.com/products/vivo-x100-5g-12-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 4499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 4499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y100 5G 8/128GB",
+        "price": 8399.0,
+        "link": "https://jaymartstore.com/products/vivo-y100-5g-128gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 4 Gen 2",
+        "display": "120Hz 2400 x 1080 Amoled",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "80W",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V30e 5G 8/256GB",
+        "price": 10999.0,
+        "link": "https://jaymartstore.com/products/vivo-v30e-5g-256gb",
+        "screen_size": "6.78 inch",
+        "chip": "Qualcomm Snapdragon 6 Gen 1",
+        "display": "Resolution : 2400x1080 (FHD+)",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "44W , Type-C",
+        "battery": "5,500 mAh",
+        "weight": "170g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1833.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1833.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y28 8/128GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/vivo-y28-128gb",
+        "screen_size": "6.68 inch",
+        "chip": "MediaTek Helio G85",
+        "display": "1608x720 (HD+)",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "44W , Type-C",
+        "battery": "6,000 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y28 8/256GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/vivo-y28-256gb",
+        "screen_size": "6.68 inch",
+        "chip": "MediaTek Helio G85",
+        "display": "1608x720 (HD+)",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "44W , Type-C",
+        "battery": "6,000 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y18 8/128GB",
+        "price": 4899.0,
+        "link": "https://jaymartstore.com/products/vivo-y18-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1633.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 816.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 816.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo X100 Pro 5G 16/512GB",
+        "price": 37999.0,
+        "link": "https://jaymartstore.com/products/vivo-x100-pro-5g-16-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 6333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 6333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V30 5G 12/256GB",
+        "price": 14299.0,
+        "link": "https://jaymartstore.com/products/vivo-v30-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V30 5G 12/512GB",
+        "price": 17499.0,
+        "link": "https://jaymartstore.com/products/vivo-v30-5g-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1749.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1749.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2916.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1749.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2916.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1749.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1749.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V30 Pro 5G 12/512GB",
+        "price": 14999.0,
+        "link": "https://jaymartstore.com/products/vivo-v30-pro-5g-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y100 5G 8/256GB",
+        "price": 8899.0,
+        "link": "https://jaymartstore.com/products/vivo-y100-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1583.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1583.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 949.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V27 5G 8/256GB",
+        "price": 13999.0,
+        "link": "https://jaymartstore.com/products/vivo-v26-5g-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V27 5G 12/256GB",
+        "price": 14999.0,
+        "link": "https://jaymartstore.com/products/vivo-v27-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y27s 8/256GB",
+        "price": 6499.0,
+        "link": "https://jaymartstore.com/products/vivo-y27s-256gb",
+        "screen_size": "6.64 inch",
+        "chip": "Snapdragon 680",
+        "display": "2388 x 1080 (FHD+)",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "44W Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1083.17
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2166.33
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1083.17
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V29 5G 12/256GB",
+        "price": 13999.0,
+        "link": "https://jaymartstore.com/products/vivo-v29-5g-12-256gb",
+        "screen_size": "6.78 inch",
+        "chip": "Qualcomm Snapdragon 778G",
+        "display": "AMOLED 10-bit",
+        "memory": "RAM 12GB, ROM 256GB",
+        "charging": "80W (Fast Charging)",
+        "battery": "4,600 mAh",
+        "weight": "186 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V29 5G 12/512GB",
+        "price": 15999.0,
+        "link": "https://jaymartstore.com/products/vivo-v29-5g-12-512gb",
+        "screen_size": "6.78 inch",
+        "chip": "Qualcomm Snapdragon 778G",
+        "display": "AMOLED 10-bit",
+        "memory": "RAM 12GB, ROM 512GB",
+        "charging": "80W (Fast Charging)",
+        "battery": "4,600 mAh",
+        "weight": "186 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1599.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "vivo Y22 4/64GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/vivo-y22",
+        "screen_size": "6.55 inch",
+        "chip": "MediaTek Helio G85",
+        "display": "1612 x 720 (HD+)",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "18W",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y22s 6/128GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/vivo-y22s",
+        "screen_size": "6.55 inch",
+        "chip": "SDM680",
+        "display": "1612 x 720 (HD+)",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "Fast charge 18W / Type-C",
+        "battery": "5,000 mAh",
+        "weight": "192 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo X90 Pro 5G 12/256GB",
+        "price": 31999.0,
+        "link": "https://jaymartstore.com/products/vivo-x90-pro-5g-12-256gb",
+        "screen_size": "6.78 inch",
+        "chip": "Dimensity 9200 5G Mobile Platform",
+        "display": "Resolution : 2800 x 1260 (FHD+) / Type : AMOLED with up to 120 Hz refres",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "120W FlashCharge",
+        "battery": "4,870 mAh",
+        "weight": "200 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3199.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y02A 2/32GB",
+        "price": 3799.0,
+        "link": "https://jaymartstore.com/products/vivo-y02a-2-32gb",
+        "screen_size": "6.51 inch",
+        "chip": "Octa-Core Processor",
+        "display": "Resolution : 1600 x 720 (HD+)",
+        "memory": "RAM 2GB / ROM 32GB",
+        "charging": "Type-C (10W)",
+        "battery": "5,000 mAh",
+        "weight": "186 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y36 8/256GB",
+        "price": 7299.0,
+        "link": "https://jaymartstore.com/products/vivo-y36-8-256gb",
+        "screen_size": "6.64 inch",
+        "chip": "Snapdragon 680",
+        "display": "2388 x 1080 (FHD + ) / LCD",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "44 W",
+        "battery": "5,000 mAh",
+        "weight": "202 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 729.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 729.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 729.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo V29e 5G 12/256GB",
+        "price": 10499.0,
+        "link": "https://jaymartstore.com/products/vivo-v29e-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1049.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1049.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1749.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1049.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1749.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1049.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1049.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y17s 6/128GB",
+        "price": 4699.0,
+        "link": "https://jaymartstore.com/products/vivo-y17s-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1566.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 783.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 783.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y02t 4/64GB",
+        "price": 3599.0,
+        "link": "https://jaymartstore.com/products/vivo-y02t-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 599.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y36 5G 8/256GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/vivo-y36-5g",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "VIvo V25 5G 8/128GB",
+        "price": 10999.0,
+        "link": "https://jaymartstore.com/products/vivo-v25-5g-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "Vivo",
+        "name": "Vivo Y19s 6/128GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/vivo-y19s-6-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    }
+  ]
+}

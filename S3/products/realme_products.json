@@ -1,0 +1,1142 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 13+ 5G 12/512GB",
+        "price": 13999.0,
+        "link": "https://jaymartstore.com/products/realme-13-plus-5g-512gb",
+        "screen_size": "6.67 inch",
+        "chip": "Dimensity 7300 Energy (4nm)",
+        "display": "OLED, FHD+, 120Hz Refresh Rate",
+        "memory": "RAM 12 / ROM 512GB",
+        "charging": "USB-C",
+        "battery": "5000mAh",
+        "weight": "185g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 13 5G 12/256GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/realme-13-5g-256gb",
+        "screen_size": "6.72 inch",
+        "chip": "Dimensity 6300 (6nm)",
+        "display": "LCD, FHD+, 120Hz Refresh Rate",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "45W",
+        "battery": "5,000 mAh.",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 13+ 5G 12/256GB",
+        "price": 11999.0,
+        "link": "https://jaymartstore.com/products/realme-13-plus-5g-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Dimensity 7300 Energy (4nm)",
+        "display": "OLED, FHD+, 120Hz Refresh Rate",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "80W",
+        "battery": "5,000 mAh.",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme Note 60 6/128GB",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/realme-note-60-128gb",
+        "screen_size": "6.74 inch",
+        "chip": "Unisoc T612",
+        "display": "LCD, HD+, 90Hz Refresh Rate",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "10W",
+        "battery": "5,000 mAh.",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2166.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme Note 60 4/64GB",
+        "price": 3499.0,
+        "link": "https://jaymartstore.com/products/realme-note60-64gb",
+        "screen_size": "6.74 inch",
+        "chip": "Unisoc T612",
+        "display": "LCD, HD+, 90Hz Refresh Rate",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "10W",
+        "battery": "5,000 mAh.",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1783.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1783.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1069.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 12 Pro+ 5G 12/512GB",
+        "price": 16999.0,
+        "link": "https://jaymartstore.com/products/realme-12-pro-plus-512gb",
+        "screen_size": "6.7 inch",
+        "chip": "Snapdragon 7s Gen2 (4 nm)",
+        "display": "FHD+ OLED, 120Hz Refresh Rate",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "67W Fast Charge",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2833.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2833.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 12 Pro+ 5G 8/256GB",
+        "price": 13999.0,
+        "link": "https://jaymartstore.com/products/realme-12-pro-plus-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "Snapdragon 7s Gen2 (4 nm)",
+        "display": "FHD+ OLED, 120Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "67W Fast Charge",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 12+ 5G 8/256GB",
+        "price": 9089.0,
+        "link": "https://jaymartstore.com/products/realme-12-plus-5g-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Dimensity 7050",
+        "display": "AMOLED, FHD+, 120Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "67W Fast charge",
+        "battery": "5,000 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme GT 6 16/512GB",
+        "price": 24990.0,
+        "link": "https://jaymartstore.com/products/realme-gt6-512gb",
+        "screen_size": "6.78 inch",
+        "chip": "Snapdragon 8s Gen 3",
+        "display": "FHD+ OLED, 120Hz Refresh Rate",
+        "memory": "RAM 16 GB / ROM 512 GB",
+        "charging": "USB Type-C 120W",
+        "battery": "5,500 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 4165.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 4165.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme C63 8/128GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/realme-c63-128gb",
+        "screen_size": "6.75 inch",
+        "chip": "Unisoc T612",
+        "display": "LCD, HD+, 90Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "Fast charge 45W",
+        "battery": "5,000 mAh",
+        "weight": "190g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C67 8/128GB",
+        "price": 4469.0,
+        "link": "https://jaymartstore.com/products/realme-c67-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1083.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 649.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 11X 5G 8/128GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/realme-11x-5g-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 11 5G 8/256GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/realme-11-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C53 8/256GB",
+        "price": 5499.0,
+        "link": "https://jaymartstore.com/products/realme-c53-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 549.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 916.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 916.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C51 4/128GB",
+        "price": 4099.0,
+        "link": "https://jaymartstore.com/products/realme-c51-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 683.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 683.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C53 6/128GB",
+        "price": 4499.0,
+        "link": "https://jaymartstore.com/products/realme-c53-6-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C55 6/128GB",
+        "price": 5499.0,
+        "link": "https://jaymartstore.com/products/realme-c55-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C55 8/256GB",
+        "price": 5499.0,
+        "link": "https://jaymartstore.com/products/realme-c55-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme Note 50 4/128GB",
+        "price": 3499.0,
+        "link": "https://jaymartstore.com/products/realme-note-50-128gb",
+        "screen_size": "6.74 inch",
+        "chip": "Unisoc T612",
+        "display": "LCD, HD, 90Hz Refresh Rate",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "USB Type-C 2.0 10W Fast Charging",
+        "battery": "5,000 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 349.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 583.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 349.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 583.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 349.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 349.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme C33 4/64GB",
+        "price": 4499.0,
+        "link": "https://jaymartstore.com/products/realme-c33",
+        "screen_size": "6.50 inch",
+        "chip": "Unisoc T612 1.82 GHz",
+        "display": "16.7M, IPS, 720 x 1600 FHD + refres 60Hz",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "10W Fast Charge",
+        "battery": "5,000 mAh",
+        "weight": "187 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme C51 4/64GB",
+        "price": 3699.0,
+        "link": "https://jaymartstore.com/products/reamle-c51",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 11 Pro+ 5G 12/512GB",
+        "price": 14999.0,
+        "link": "https://jaymartstore.com/products/realme-11pro-plus-12-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 11 Pro 5G 8/256GB",
+        "price": 11499.0,
+        "link": "https://jaymartstore.com/products/realme-11pro-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1149.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1149.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1149.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1149.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme C30s 3/64GB",
+        "price": 2999.0,
+        "link": "https://jaymartstore.com/products/reame-c30s-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme 10T 5G 8/256GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/realme-10t-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "Realme Pad 6/128GB Wifi",
+        "price": 9990.0,
+        "link": "https://jaymartstore.com/products/realme-pad-6-128-wifi",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme C11 2021 4/64GB",
+        "price": 4499.0,
+        "link": "https://jaymartstore.com/products/realme-c11-2021-4-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 9i 6/128GB",
+        "price": 7299.0,
+        "link": "https://jaymartstore.com/products/realme-9i",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 9 Pro+ 5G 8/128GB",
+        "price": 12999.0,
+        "link": "https://jaymartstore.com/products/realme-9-pro-plus",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 9 Pro+ (Free Fire Edition) 8/128GB",
+        "price": 12499.0,
+        "link": "https://jaymartstore.com/products/realme-9-pro-free-fire",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 12x 5G 8/256GB",
+        "price": 6999.0,
+        "link": "https://jaymartstore.com/products/realme-12x-5g-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "realme",
+        "name": "realme 12 5G 8/256GB",
+        "price": 7409.0,
+        "link": "https://jaymartstore.com/products/realme-12-5g-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    }
+  ]
+}

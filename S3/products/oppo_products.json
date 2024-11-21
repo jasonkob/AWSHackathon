@@ -1,0 +1,1315 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A3 Pro 5G 6/128GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/oppo-a3-pro-5g-",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 6300",
+        "display": "264 PPI ,16.7 million colors HD+ (1604x720) LCD Display ,120Hz Refresh Rate",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "45W SUPERVOOC Flash Charge , Type-C",
+        "battery": "5,100 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A3 Pro 5G 8/256GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/oppo-a3-pro-5g-8-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MediaTek Dimensity 6300",
+        "display": "264 PPI ,16.7 million colors HD+ (1604x720) LCD Display ,120Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "45W SUPERVOOC Flash Charge , Type-C",
+        "battery": "5,100 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1666.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A3x 6/128GB",
+        "price": 5299.0,
+        "link": "https://jaymartstore.com/products/oppo-a3x-6-128gb",
+        "screen_size": "6.67 inch",
+        "chip": "Qualcomm Snapdragon 6s 4G Gen 1",
+        "display": "264 PPI , 16.7 million colors , HBM 1000nit HD , 90Hz Refresh Rate",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "45W SUPERVOOC 2.0 , Type-C",
+        "battery": "5,100 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 883.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 883.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A3x 4/128GB",
+        "price": 4699.0,
+        "link": "https://jaymartstore.com/products/oppo-a3x-4-128gb",
+        "screen_size": "6.67 inch",
+        "chip": "Qualcomm Snapdragon 6s 4G Gen 1",
+        "display": "264 PPI , 16.7 million colors , HBM 1000nit HD , 90Hz Refresh Rate",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "45W SUPERVOOC 2.0 , Type-C",
+        "battery": "5,100 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 783.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 783.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A3x 4/64GB",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/oppo-a3x-64gb",
+        "screen_size": "6.67 inch",
+        "chip": "Qualcomm Snapdragon 6s 4G Gen 1",
+        "display": "264 PPI , 16.7 million colors , HBM 1000nit HD , 90Hz Refresh Rate",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "45W SUPERVOOC 2.0 , Type-C",
+        "battery": "5,100 mAh",
+        "weight": "180g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno12 F 5G 12/256GB",
+        "price": 11999.0,
+        "link": "https://jaymartstore.com/products/oppo-reno-12f-5g-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "MTK Dimensity 6300 5G Octa-core 2.4 GHz",
+        "display": "16.7M Colors, Flat OLED, FHD+ (1080*2400) 349ppi, Touch smpling rate m",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "45W SuperVOOC Flash Charge . Type C",
+        "battery": "5,000 mAh",
+        "weight": "187g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno12 5G 12/256GB",
+        "price": 14999.0,
+        "link": "https://jaymartstore.com/products/oppo-reno12-5g-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "MTK Dimensity 7300 5G Octa-core 2.5 GHz",
+        "display": "FHD (2412x1080) 349 PPI , 1.07 billion colors , Touch Sampling Rate Max 240Hz",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "80W SuperVOOC Flash Charge . Type C",
+        "battery": "5,000 mAh",
+        "weight": "177g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno12 5G 12/512GB",
+        "price": 16999.0,
+        "link": "https://jaymartstore.com/products/oppo-reno12-5g-512gb",
+        "screen_size": "6.7 inch",
+        "chip": "MTK Dimensity 7300 5G Octa-core 2.5 GHz",
+        "display": "FHD (2412x1080) 349 PPI , 1.07 billion colors , Touch Sampling Rate Max 240Hz",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "80W SuperVOOC Flash Charge . Type C",
+        "battery": "5,000 mAh",
+        "weight": "177g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2833.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2833.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno12 Pro 5G 12/512GB",
+        "price": 19999.0,
+        "link": "https://jaymartstore.com/products/oppo-reno12-pro-5g-512gb",
+        "screen_size": "6.7 inch",
+        "chip": "MTK Dimensity 7300 5G Octa-core 2.5 GHz",
+        "display": "FHD (2412x1080) 349 PPI , 1.07 billion colors , Touch Sampling Rate Max 240Hz",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "80W SuperVOOC Flash Charge . Type C",
+        "battery": "5,000 mAh",
+        "weight": "177g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3333.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3333.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A60 8/128GB",
+        "price": 5599.0,
+        "link": "https://jaymartstore.com/products/oppo-a60-8-128gb",
+        "screen_size": "6.67 inch",
+        "chip": "Snapdragon 680",
+        "display": "264 PPI , 16.7 million colors HD+ LCD Display , 90Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "45W SUPERVOOC , Type-C",
+        "battery": "5,000 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno11 F 5G 8/256GB",
+        "price": 10990.0,
+        "link": "https://jaymartstore.com/products/oppo-reno11f-5g-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "MediaTek MT6877TT (MTK Dimensity 7050)",
+        "display": "FHD (2412x1080)",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "67W SUPERVOOC , Type-C",
+        "battery": "5,000 mAh",
+        "weight": "170g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1831.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1831.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A60 8/256GB",
+        "price": 6499.0,
+        "link": "https://jaymartstore.com/products/oppo-a60-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 2333.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A18 4/128GB",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/oppo-a18-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1333.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A78 8/256 GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/oppo-a78-8-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A38 6/128GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/oppo-a38-6-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 833.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A58 6/128GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/oppo-a58-6-128gb",
+        "screen_size": "6.72 inch",
+        "chip": "MediaTek Helio G85",
+        "display": "391 PPI , 16.7 million colors (8-bit) FHD+ LCD Display , 60Hz Refresh Rate",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "33W Supervooc Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno10 Pro+ 5G 12/256GB",
+        "price": 27990.0,
+        "link": "https://jaymartstore.com/products/oppo-reno1o-pro-plus-5g-12-256gb",
+        "screen_size": "6.70 inch",
+        "chip": "Snapdragon 8+ Gen1",
+        "display": "FHD (2772 x 1240) , Capacitive touch screen , Multi-touch",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "100W Supervooc Type-C",
+        "battery": "4,700 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno10 Pro 5G 12/256GB",
+        "price": 17990.0,
+        "link": "https://jaymartstore.com/products/oppo-reno10-pro-5g-12-256gb",
+        "screen_size": "6.70 inch",
+        "chip": "SM7325 (Qualcomm Snapdragon 778G)",
+        "display": "FHD (2412 x 1080) , Capacitive touch screen , Multi-touch",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "80W Supervooc Type-C",
+        "battery": "4,600 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno10 5G 8/256GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/oppo-reno10-5g-8-256gb",
+        "screen_size": "6.70 inch",
+        "chip": "MediaTek MT6877TT (MTK Dimensity 7050)",
+        "display": "10.7 bit , FHD (2412 x 1080) , HDR 10+",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "67W Supervooc Type-C",
+        "battery": "5,000 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A78 5G 8/128GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/oppo-a78-5g-128gb",
+        "screen_size": "6.56 inch",
+        "chip": "MediaTek Dimensity 700 5G",
+        "display": "16.7 million colors (8-bit) HD+ (1612 x 720) LCD Display 90Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "33W SUPERVOOCTM, Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Pad Neo LTE 8/128GB",
+        "price": 10990.0,
+        "link": "https://jaymartstore.com/products/oppo-pad-neo-lte",
+        "screen_size": "11.4 inch",
+        "chip": "MediaTek Helio G99",
+        "display": "260 PPI, 16.7M (8bit), 90Hz Refresh Rate",
+        "memory": "RAM 8 GB / ROM 128 GB",
+        "charging": "33W SuperVOOC, Type-C",
+        "battery": "8,000 mAh",
+        "weight": "538 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1831.67
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno11 Pro 5G 12/256GB",
+        "price": 19990.0,
+        "link": "https://jaymartstore.com/products/oppo-reno11-pro-5g-12-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "Mediatek : Dimensity 8200 Octa Core",
+        "display": "AMOLED 10-bit",
+        "memory": "RAM 12GB, ROM 256GB",
+        "charging": "80W (Fast Charging)",
+        "battery": "4,600 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.67
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Reno11 5G 12/256GB",
+        "price": 14990.0,
+        "link": "https://jaymartstore.com/products/oppo-reno11-5g-12-256gb",
+        "screen_size": "6.7 inch",
+        "chip": "MediaTek MT6877TT (MTK Dimensity 7050)",
+        "display": "FHD (2412x1080) 400 PPI, 1.07 billion colors, Punch display, 120Hz 3D Flexible Amoled",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "67W SUPERVOOC , Type-C",
+        "battery": "5,000 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2498.33
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A79 5G 8/256GB",
+        "price": 8999.0,
+        "link": "https://jaymartstore.com/products/oppo-a79-5g-256gb",
+        "screen_size": "6.72 inch",
+        "chip": "MediaTek Dimensity 6020",
+        "display": "391 PPI, 16.7 million colors FHD+ LCD display, 90Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "33W , Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.83
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1499.83
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 899.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A79 5G 4/128GB sale 7%",
+        "price": 6499.0,
+        "link": "https://jaymartstore.com/products/oppo-a79-5g-128gb",
+        "screen_size": "6.72 inch",
+        "chip": "MediaTek Dimensity 6020",
+        "display": "391 PPI, 16.7 million colors FHD+ LCD display, 90Hz Refresh Rate",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "33W , Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.5
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1166.5
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A77s 8/128GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/oppo-a77s-128gb",
+        "screen_size": "6.56 inch",
+        "chip": "Snapdragon 680",
+        "display": "LCD display, 90Hz Refresh Rate 16.7 million colors (8-bit), HD+ (1612x720)",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "33W Supervooctm, Type-C",
+        "battery": "5,000 mAh",
+        "weight": "187 g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A17 4/64GB",
+        "price": 4599.0,
+        "link": "https://jaymartstore.com/products/oppo-a17-64gb",
+        "screen_size": "6.56 inch",
+        "chip": "MTK G35",
+        "display": "16.7 million colors (8-bit), HD+ (1612 x 720) LCD display, 60Hz Refresh",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "10W (5V/2A) Micro USB",
+        "battery": "5,000 mAh",
+        "weight": "189 g",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A17K 3/64GB",
+        "price": 3799.0,
+        "link": "https://jaymartstore.com/products/oppo-a17k",
+        "screen_size": "6.56 inch",
+        "chip": "MediaTek Helio G35",
+        "display": "16.7 million colors (8-bit), HD+ (1612 x 720) LCD display, 60Hz Refresh Rate",
+        "memory": "RAM 3GB / ROM 64GB",
+        "charging": "10W (5V/2A), Micro USB",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 633.17
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A98 5G 8/256GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/oppo-a98-5g-8-256gb",
+        "screen_size": "6.72 inch",
+        "chip": "Qualcomm Snapdragon 695 5G 8-core",
+        "display": "391 PPI, 16.7 million colors (8-bit), FHD+ (2400 x1080) LCD display, 120Hz Refresh Rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "67W SUPERVOOC , Type-C",
+        "battery": "5,000 mAh",
+        "weight": "190 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A58 8/128GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/oppo-a58-8-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 599.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Find N3 16/512GB",
+        "price": 69990.0,
+        "link": "https://jaymartstore.com/products/oppo-find-n3",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 6999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 6999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 11665.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 6999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 11665.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 6999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 6999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A38 4/128GB",
+        "price": 5499.0,
+        "link": "https://jaymartstore.com/products/oppo-a38-4-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Pad Air 4/64GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/oppo-pad-air",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO Enco X2 หูฟังไร้สาย TWS",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/oppo-enco-x2",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A57 4G 4/64GB",
+        "price": 5999.0,
+        "link": "https://jaymartstore.com/products/oppo-a57-3-64gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "OPPO",
+        "name": "OPPO A57 4G 4/128GB",
+        "price": 6299.0,
+        "link": "https://jaymartstore.com/products/oppo-a57-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    }
+  ]
+}

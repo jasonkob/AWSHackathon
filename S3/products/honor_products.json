@@ -1,0 +1,823 @@
+{
+  "categories": [
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor Magic V3 12/512GB",
+        "price": 54990.0,
+        "link": "https://jaymartstore.com/products/honor-magic-v3-512gb",
+        "screen_size": "11.5 inch",
+        "chip": "Snapdragon 8 Gen 3",
+        "display": "outer screen: 6.43 inches; inner screen: 7.92 inches",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "Type-C",
+        "battery": "5,050 mAh",
+        "weight": "200g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 5490.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 9165.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 5499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 9165.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 5499.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 5499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 5499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR 200 Pro 5G 12/512GB",
+        "price": 18990.0,
+        "link": "https://jaymartstore.com/products/honor-200-pro-5g",
+        "screen_size": "6.78 inch",
+        "chip": "Qualcomm Snapdragon 8s Gen3",
+        "display": "OLED, 1.07 billion colors,120Hz",
+        "memory": "RAM 12GB / ROM 512GB",
+        "charging": "USB Type-C Fast charging wired 120W, wireless 66W.",
+        "battery": "5,200 mAh",
+        "weight": "190g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 3331.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR 200 12/256GB",
+        "price": 13990.0,
+        "link": "https://jaymartstore.com/products/honor-200-5g",
+        "screen_size": "6.7 inch",
+        "chip": "Snapdragon 7 Gen 3",
+        "display": "FHD+ 2664×1200, OLED, 120Hz, 1.07 billion colors",
+        "memory": "RAM 12GB / ROM 256GB",
+        "charging": "USB Type-C Fast charging 100W",
+        "battery": "5,200 mAh",
+        "weight": "180g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 2498.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 2498.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR Magic6 Pro 12/512GB",
+        "price": 29990.0,
+        "link": "https://jaymartstore.com/products/honor-magic6-pro-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 3499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 3499.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 5831.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 3499.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 5831.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3499.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 3499.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR 90 5G 12/256GB",
+        "price": 11990.0,
+        "link": "https://jaymartstore.com/products/honor-90-5g-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1199.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR X9b 5G 12/256GB",
+        "price": 9999.0,
+        "link": "https://jaymartstore.com/products/honor-x9b-5g-12-256gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1831.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 1831.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor Magic5 Pro 12/512GB",
+        "price": 29990.0,
+        "link": "https://jaymartstore.com/products/honor-magic5-pro-12-512gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 2999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor X6a 4/128GB",
+        "price": 3799.0,
+        "link": "https://jaymartstore.com/products/honor-x6a-128gb",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 399.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1333.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 666.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 666.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 399.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 399.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor X5 Plus 4/64GB",
+        "price": 3499.0,
+        "link": "https://jaymartstore.com/products/honor-x5-plus-64gb",
+        "screen_size": "6.56 inch",
+        "chip": "Mediatek G36",
+        "display": "HD+ 720 x 1612 Pixels Support Highest Refresh Rate 90Hz",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "USB Type-C",
+        "battery": "5,200 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 583.17
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 3",
+            "installment_amount": 1166.33
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 583.17
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 349.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR Pad X9 LTE 4/128GB",
+        "price": 7499.0,
+        "link": "https://jaymartstore.com/products/honor-pad-x9-128gb",
+        "screen_size": "11.5 inch",
+        "chip": "Snapdragon 685 4G Mobile Platform",
+        "display": "TFTLCD, 1.07 billion colors,120Hz Resolution: 2000x1200 pixels",
+        "memory": "RAM 4GB / ROM 128GB",
+        "charging": "Type-C About 60 Mins",
+        "battery": "7,250 mAh",
+        "weight": "490 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 749.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 6",
+            "installment_amount": 1249.83
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 749.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 749.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 749.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 749.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor Pad 8 Wifi 6/128GB",
+        "price": 9990.0,
+        "link": "https://jaymartstore.com/products/honor-pad8",
+        "screen_size": "12.0 inch",
+        "chip": "Qualcomm Snapdragon 680",
+        "display": "2000x1200",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "22.5 W",
+        "battery": "7,250 mAh",
+        "weight": "520 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 999.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor X6 4/64GB sale 30%",
+        "price": 3599.0,
+        "link": "https://jaymartstore.com/products/honor-x6",
+        "screen_size": "6.50 inch",
+        "chip": "MTK MT6762 4 x 2 GHz A53+4 x 1.5GHz A53",
+        "display": "720 x 1600 Pixels",
+        "memory": "RAM 4GB / ROM 64GB",
+        "charging": "10 W (10 V/2.25 A)",
+        "battery": "5,000 mAh",
+        "weight": "194 g",
+        "payment_plans": [
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 6",
+            "installment_amount": 749.83
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR 70 8/256GB",
+        "price": 12990.0,
+        "link": "https://jaymartstore.com/products/honor-7o-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Qualcomm Snapdragon 778G+ 5G (6 nm)",
+        "display": "OLED FHD+ 2400 x 1080 Pixels up to 120Hz frame refresh rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "SuperCharge HONOR 66W / About 45 Mins",
+        "battery": "4,800 mAh",
+        "weight": "178 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1299.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor X9a 8/256GB",
+        "price": 10990.0,
+        "link": "https://jaymartstore.com/products/honor-x9a-256gb",
+        "screen_size": "6.67 inch",
+        "chip": "Qualcomm Snapdragon 695",
+        "display": "OLED FHD+ 2400 x 1080 Pixels up to 120Hz frame refresh rate",
+        "memory": "RAM 8GB / ROM 256GB",
+        "charging": "About 45 Mins",
+        "battery": "5,100 mAh",
+        "weight": "175 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 1099.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "Honor X7a 6/128GB sale20%",
+        "price": 3999.0,
+        "link": "https://jaymartstore.com/products/honor-x7a",
+        "screen_size": "6.74 inch",
+        "chip": "MediaTek Helio G37",
+        "display": "Display Resolution 1600 x 720 / Display Color 16.7M",
+        "memory": "RAM 6GB / ROM 128GB",
+        "charging": "USB Type-C About 45 Mins",
+        "battery": "6,000 mAh",
+        "weight": "196 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 499.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR X8a 8/128GB sale28%",
+        "price": 4990.0,
+        "link": "https://jaymartstore.com/products/honor-x8a",
+        "screen_size": "6.70 inch",
+        "chip": "MediaTek Helio G88 / CPU Octa-core (2xA75 2.0GHz + 6xA55 1.8Ghz)",
+        "display": "Display Resolution 1080 x 2388 / Display Color 16.7M",
+        "memory": "RAM 8GB / ROM 128GB",
+        "charging": "Fast Charging 22.5W (USB Type-C 2.0)",
+        "battery": "4,500 mAh",
+        "weight": "180 g",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 699.9
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR 90 Lite 5G 8/256GB",
+        "price": 7999.0,
+        "link": "https://jaymartstore.com/products/honor-90-lite",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "KTC",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 799.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR X8 6/128GB",
+        "price": 4999.0,
+        "link": "https://jaymartstore.com/products/honor-x8",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 749.0
+          }
+        ]
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR X7 4/128GB",
+        "price": 3799.0,
+        "link": "https://jaymartstore.com/products/honor-x7",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": []
+      }
+    },
+    {
+      "product": {
+        "brand": "HONOR",
+        "name": "HONOR X9 8/128GB",
+        "price": 9299.0,
+        "link": "https://jaymartstore.com/products/honor-x9",
+        "screen_size": "-",
+        "chip": "-",
+        "display": "-",
+        "memory": "-",
+        "charging": "-",
+        "battery": "-",
+        "weight": "-",
+        "payment_plans": [
+          {
+            "bank": "BBL",
+            "interest_term": "0% x 10",
+            "installment_amount": 929.0
+          },
+          {
+            "bank": "KBANK",
+            "interest_term": "0% x 10",
+            "installment_amount": 929.0
+          },
+          {
+            "bank": "SCB",
+            "interest_term": "0% x 10",
+            "installment_amount": 929.0
+          },
+          {
+            "bank": "UOB",
+            "interest_term": "0% x 10",
+            "installment_amount": 929.0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "categories": {
+    "smartphones": {
+      "apple": {
+        "iphone_16_series": {
+          "models": [
+            {
+              "id": "iphone16_promax_256",
+              "name": "iPhone 16 Pro Max",
+              "storage": "256GB",
+              "price": 48900,
+              "features": [
+                "Advanced camera system",
+                "Latest A18 Pro chip",
+                "ProMotion display",
+                "Titanium design"
+              ],
+              "specifications": {
+                "display": "6.7-inch Super Retina XDR",
+                "camera": "48MP main + 12MP ultra-wide",
+                "processor": "A18 Pro chip",
+                "battery": "All-day battery life"
+              },
+              "colors": ["Black", "White", "Blue", "Natural"],
+              "status": "in_stock",
+              "warranty": "1 year"
+            }
+          ]
+        },
+        "iphone_15_series": {
+          "models": [
+            {
+              "id": "iphone15_128",
+              "name": "iPhone 15",
+              "storage": "128GB",
+              "price": 28500,
+              "original_price": 32900,
+              "discount": 4400,
+              "features": [
+                "48MP main camera",
+                "A15 Bionic chip",
+                "6.1-inch Super Retina XDR display",
+                "Face ID security"
+              ],
+              "specifications": {
+                "display": {
+                  "type": "Super Retina XDR OLED",
+                  "size": "6.1 inches",
+                  "resolution": "2556 x 1179 pixels"
+                },
+                "camera": {
+                  "main": "48MP, f/1.6",
+                  "ultra_wide": "12MP, f/2.4",
+                  "front": "12MP TrueDepth"
+                },
+                "processor": "A15 Bionic",
+                "battery": {
+                  "capacity": "3349 mAh",
+                  "charging": ["Fast charging (20W)", "MagSafe wireless (15W)"]
+                }
+              },
+              "status": "in_stock"
+            }
+          ]
+        }
+      },
+      "samsung": {
+        "s_series": {
+          "models": [
+            {
+              "id": "s23_ultra_256",
+              "name": "Samsung Galaxy S23 Ultra",
+              "storage": "256GB",
+              "price": 36900,
+              "original_price": 44900,
+              "features": [
+                "200MP main camera",
+                "S Pen included",
+                "6.8-inch Dynamic AMOLED",
+                "5G capability"
+              ],
+              "specifications": {
+                "display": {
+                  "type": "Dynamic AMOLED 2X",
+                  "size": "6.8 inches",
+                  "refresh_rate": "120 Hz"
+                },
+                "camera": {
+                  "main": "200MP, f/1.7",
+                  "ultra_wide": "12MP, f/2.2",
+                  "telephoto": "10MP, f/2.4"
+                }
+              },
+              "status": "in_stock"
+            }
+          ]
+        }
+      }
+    },
+    "tablets": {
+      "apple": {
+        "ipad_pro": {
+          "models": [
+            {
+              "id": "ipad_pro_11_256",
+              "name": "iPad Pro 11-inch (M4)",
+              "storage": "256GB",
+              "price": 39900,
+              "features": [
+                "M4 chip",
+                "11-inch Liquid Retina",
+                "ProMotion technology",
+                "Apple Pencil 2 support"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "speakers": {
+      "jbl": {
+        "models": [
+          {
+            "id": "jbl_charge5",
+            "name": "JBL Charge 5",
+            "price": 5790,
+            "features": [
+              "20 hours playback",
+              "IP67 waterproof",
+              "USB-C charging",
+              "PartyBoost compatible"
+            ],
+            "specifications": {
+              "battery": "7500mAh",
+              "charging_time": "4 hours",
+              "bluetooth_version": "5.1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "last_updated": "2024-11-12",
+    "version": "1.0.0",
+    "currency": "THB",
+    "price_includes_vat": true
+  }
+}

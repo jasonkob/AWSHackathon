@@ -13,7 +13,7 @@ Member :
           
           นางสาวจิดาภา เรียงวิไลกุล (IoT System and Information Engineering)
           
-          นายนนทวัช ผ่องศรีนวล (Computer Engineering)
+          นายนนทวัช ผ่องศรีนวล (Computer Engineering(Continuing Education))
           
           นายแอนฟิลด์ วาซัน (IoT System and Information Engineering)
 

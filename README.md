@@ -1,4 +1,4 @@
-This project is for depa GrowthLab : GenAI Hackathon powered by AWS in Demo Day (11 teams)
+This project is for depa GrowthLab : GenAI Hackathon powered by AWS in Demo Day (Finalist 11 teams)
 
 Topic : Revolutionizing Jaymart's Sales with AI Chatbot Technology
 

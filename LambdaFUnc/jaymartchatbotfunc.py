@@ -7,19 +7,16 @@ import uuid
 import os
 import re
 
-# Initialize AWS clients
 s3 = boto3.client('s3')
 bedrock = boto3.client('bedrock-runtime', region_name='us-east-1')
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table(os.environ.get('CONVERSATION_TABLE', 'JaymartConversations'))
 
-# S3 configuration
 BUCKET_NAME = 'jaymart-data'
 CATALOG_KEY = 'products/test.json'
 PAYMENTS_KEY = 'payments/test2.json'  # New S3 key for payments data
 
 def get_product_catalog():
-    """Fetch product catalog from S3"""
     try:
         response = s3.get_object(Bucket=BUCKET_NAME, Key=CATALOG_KEY)
         return json.loads(response['Body'].read().decode('utf-8'))
@@ -28,7 +25,6 @@ def get_product_catalog():
         return {}
 
 def get_payments_data():
-    """Fetch payments data from S3"""
     try:
         response = s3.get_object(Bucket=BUCKET_NAME, Key=PAYMENTS_KEY)
         return json.loads(response['Body'].read().decode('utf-8'))
@@ -139,28 +135,19 @@ class ConversationManager:
             return []
 
 def contains_thai(text):
-    """Check if the text contains Thai characters."""
     return re.search(r'[\u0E00-\u0E7F]', text) is not None
 
 def prepare_prompt(user_prompt, conversation_history):
-    """Prepare the full prompt with context and user-only conversation history"""
-    # Get product catalog from S3
     catalog = get_product_catalog()
-    # Get payments data from S3
     payments = get_payments_data()
-    
-    # Combine base context with product catalog and payments data
     full_context = BASE_CONTEXT + "\n\n## Product Catalog\n" + json.dumps(catalog, indent=2)
     full_context += "\n\n## Payment Data\n" + json.dumps(payments, indent=2)
-    
-    # Add conversation history with only user messages
     if conversation_history:
         full_context += "\n\nPrevious conversation:\n\n"
         for exchange in conversation_history:
-            full_context += f"User: {exchange['user']}\n"  # Only add user inputs
+            full_context += f"User: {exchange['user']}\n"
             
-    # Add current user prompt
-    full_context += f"User: {user_prompt}\nAssistant:"  # Prompt format for the assistant's response
+    full_context += f"User: {user_prompt}\nAssistant:"
     
     return full_context
 
@@ -192,7 +179,6 @@ def format_response(response_body):
     return formatted
 
 def call_bedrock(prompt):
-    """Make API call to Bedrock"""
     return bedrock.invoke_model(
         modelId='amazon.titan-text-premier-v1:0',
         contentType='application/json',
@@ -213,7 +199,6 @@ def lambda_handler(event, context):
     conversation_manager = ConversationManager(table)
     
     try:
-        # Parse request
         body = json.loads(event['body']) if isinstance(event.get('body'), str) else event.get('body', event)
         if 'prompt' not in body:
             raise ValueError("No 'prompt' found in the request body")
@@ -221,7 +206,6 @@ def lambda_handler(event, context):
         session_id = body.get('session_id', str(uuid.uuid4()))
         user_prompt = body['prompt']
         
-        # Check if the prompt is in Thai
         if contains_thai(user_prompt):
             bot_response = "Sorry, I don't understand. Please answer again."
             conversation_manager.update_conversation_history(session_id, user_prompt, bot_response)
@@ -240,19 +224,15 @@ def lambda_handler(event, context):
         
         conversation_history = conversation_manager.get_conversation_history(session_id)
         
-        # Check remaining time
         if context.get_remaining_time_in_millis() < 5000:
             raise TimeoutError("Not enough time to process request")
         
-        # Prepare and make API call
         full_prompt = prepare_prompt(user_prompt, conversation_history)
         response = call_bedrock(full_prompt)
         
-        # Process response
         response_body = json.loads(response['body'].read())
         formatted_response = format_response(response_body)
         
-        # Update history
         conversation_manager.update_conversation_history(
             session_id, 
             user_prompt, 

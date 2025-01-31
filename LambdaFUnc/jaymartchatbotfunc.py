@@ -32,7 +32,6 @@ def get_payments_data():
         print(f"Error fetching payments data from S3: {e}")
         return {}
 
-# Base context without product data
 BASE_CONTEXT = """
 # Jaymart Chatbot Instructions
 
